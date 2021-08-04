@@ -15,6 +15,10 @@ header {
     font-size: 18px; 
 }
 
+button {
+background: white !important;
+width: 7rem !important;
+}
 .blue-circle {
      width: 2.6rem; 
      height: 2.6rem; 
